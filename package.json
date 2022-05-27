@@ -14,7 +14,7 @@
     "wabase-md"
   ],
   "author": "fasweeh.",
-  "license": "GNU",
+  "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
