@@ -6,7 +6,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://raganork-qr.herokuapp.com/"><img align="center" src="https://imgur.com/zgpmiWE.png" alt="Scan QR" height="45" width="300" /></a>
+<a href="https://levanter.up.railway.app/md"><img align="center" src="https://imgur.com/zgpmiWE.png" alt="Scan QR" height="45" width="300" /></a>
 <br>
 <div>
 <br>
