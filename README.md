@@ -14,7 +14,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <a href="https://faz-api.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://m.imgur.com/1BQoG9t.png" alt="Deploy bot" height="45" width="300" /></a>
   <div>
 <br>
-<a href="https://github.com/inrlwabot/faz-md-deploy/fork"><img align="center" src="https://imgur.com/6CwVT0i.png" alt="Fork and deploy" height="45" width="300" /></a>
+<a href="https://github.com/inrlwabot/faz-md/fork"><img align="center" src="https://imgur.com/6CwVT0i.png" alt="Fork and deploy" height="45" width="300" /></a>
 <div>
   <br>
 <!--- <a href="inrlwabot" /></a> 
